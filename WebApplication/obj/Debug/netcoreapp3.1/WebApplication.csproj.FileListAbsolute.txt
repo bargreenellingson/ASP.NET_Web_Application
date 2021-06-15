@@ -17,3 +17,23 @@
 /Users/jonathan/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.dll
 /Users/jonathan/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.pdb
 /Users/jonathan/RiderProjects/WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.genruntimeconfig.cache
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csprojAssemblyReference.cache
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.xml
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication.styles.css
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+E:\My Drive\Work\ASP.NET_Web_Application\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
